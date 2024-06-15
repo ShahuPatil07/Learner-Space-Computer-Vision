@@ -52,3 +52,6 @@ Can be skipped this week
 
 Watch the [playlist](https://youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&si=lgaRNzQ9qPih4Hnt) from video 1 to 18
 
+This is <span style="color:red">red</span> text.
+This is <span style="color:green">green</span> text.
+This is <span style="color:blue">blue</span> text.
