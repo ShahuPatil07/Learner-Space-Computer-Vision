@@ -1,7 +1,7 @@
 # Tensorflow
-><span style="color:green"> **Note:**
-All the videos can be watched at **1.5x speed**  
-USE NOTEBOOK [**COLAB**/JUPYTER]</span>
+>**Note:**
+>All the videos can be watched at **1.5x speed**  
+USE NOTEBOOK [**COLAB**/JUPYTER]
 
 1. <span style="font-size:18px">**[Install and Setup](https://youtu.be/5Ym-dOS9ssA?si=lpQeaEaSqo9jOtvi)**</span>  
 `pip3 install tensorflow` (if using on local notebook/editor)  
