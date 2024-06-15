@@ -19,7 +19,7 @@
 [Intuition](https://youtu.be/jS1CKhALUBQ?si=8LC2Qn9oFexke3aM) (at 1.5x speed)  
 [Naive Bayes on Text Data](https://youtu.be/temQ8mHpe3k?si=u_I8AyPMoRho6KHV) (at 1.5x speed)  
 [Application](https://youtu.be/nHIUYwN-5rM?si=bHFlE9KX23WmaZH-) (at 2x speed)  
->[!Caution]
+>[!Warning]
 NLP is done with advanced Deep Learning algorithms
 ### K-means Clustering:
 [K-Means in ML](https://youtu.be/EItlUEPCIzM?si=f9Or7ZgnpzlJmudt) (Optional)
