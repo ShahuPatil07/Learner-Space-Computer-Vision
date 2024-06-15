@@ -7,7 +7,7 @@ USE NOTEBOOK [**COLAB**/JUPYTER]</span>
 `pip3 install tensorflow` (if using on local notebook/editor)  
 Setup isn’t required for working in colab
 
-2. <span style="font-size:18px">**[Tensorflow Basics](https://youtu.be/HPjBY1H-U4U?si=xTni0ae-S0vgbQVA)**</span>   
+2. <span style="font-size:28px">**[Tensorflow Basics](https://youtu.be/HPjBY1H-U4U?si=xTni0ae-S0vgbQVA)**</span>   
 You can skip os.environ[...] = ‘2’
 
 3. <span style="font-size:18px">**[NN](https://youtu.be/pAhPiF3yiXI?si=jodY8SIy5PUapbzo)**</span> 
