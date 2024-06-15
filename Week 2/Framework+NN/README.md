@@ -1,4 +1,8 @@
-# Tensorflow
+# FRAMEWORK
+In this course, you'll learn how to use TensorFlow/PyTorch, two powerful tools for data science and machine learning. Starting with creating tensors and performing operations on them, you'll quickly move to building and deploying deep learning models. You'll construct neural networks from scratch, utilize Convolutional Neural Networks (CNNs) for tasks like image recognition, and apply regularization techniques such as L2 and Dropout to improve model performance. The course also includes tutorials on saving and loading models, ensuring your work is reusable and accessible. By the end, you'll be well-equipped to handle various data science and machine learning projects.
+>[!IMPORTANT]
+>Use either Tensorflow or PyTorch
+## Tensorflow
 >[!Tip]
 All the videos can be watched at **1.5x speed**  
 USE NOTEBOOK [**COLAB**/JUPYTER]
@@ -26,7 +30,7 @@ Can be skipped this week
 **EXPLORE THE [TENSORFLOW OFFICIAL DOCUMENTATION](https://www.tensorflow.org/api_docs/python/tf/keras) FOR MORE**  
 `tf.keras` will be used mainly
 
-# PYTORCH
+## PyTorch
 >[!Tip]
 All the videos can be watched at **1.5x speed**  
 USE NOTEBOOK [**COLAB**/JUPYTER]
@@ -49,6 +53,9 @@ Can be skipped this week
 **EXPLORE THE [PYTORCH OFFICIAL DOCUMENTATION](https://pytorch.org/tutorials/beginner/basics/intro.html) FOR MORE** 
 
 # NEURAL NETWORK
+In this course, you'll learn the essentials of Neural Networks for data science and machine learning. Starting with the basics, you'll understand how neural networks work and how to build them from scratch. You'll cover topics such as feedforward networks, activation functions, backpropagation, and managing overfitting and underfitting. You'll also explore learnable parameters and batch normalization. The course includes description about test, train and validation set.
+>[!Tip]
+All the videos can be watched at **1.5x speed**
 
-Watch the [playlist](https://youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&si=lgaRNzQ9qPih4Hnt) from video 1 to 18
+Watch the [playlist](https://youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&si=lgaRNzQ9qPih4Hnt) videos 1-18, 25-38 (skip 34)
 
