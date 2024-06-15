@@ -1,6 +1,6 @@
 # Tensorflow
->**Note:**
->All the videos can be watched at **1.5x speed**  
+>[!Tip]
+All the videos can be watched at **1.5x speed**  
 USE NOTEBOOK [**COLAB**/JUPYTER]
 
 1. <span style="font-size:18px">**[Install and Setup](https://youtu.be/5Ym-dOS9ssA?si=lpQeaEaSqo9jOtvi)**</span>  
@@ -27,9 +27,9 @@ Can be skipped this week
 tf.keras will be used mainly
 
 # PYTORCH
-><span style="color:green"> **Note:**
+>[!Tip]
 All the videos can be watched at **1.5x speed**  
-USE NOTEBOOK [**COLAB**/JUPYTER]</span>
+USE NOTEBOOK [**COLAB**/JUPYTER]
 
 1. <span style="font-size:18px">**[Install and Setup](https://youtu.be/2S1dgHpqCdk?si=5tSQQbP7UELku9bc)**</span>  
 Setup isn’t required for working in colab
