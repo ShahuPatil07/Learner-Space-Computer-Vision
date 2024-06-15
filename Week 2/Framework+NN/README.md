@@ -24,7 +24,7 @@ Can be skipped this week
 8. <span style="font-size:18px">**[Custom Dataset for Images](https://youtu.be/q7ZuZ8ZOErE?si=Xu9uxKgzL9oYQvIa)**</span>
 
 **EXPLORE THE [TENSORFLOW OFFICIAL DOCUMENTATION](https://www.tensorflow.org/api_docs/python/tf/keras) FOR MORE**  
-tf.keras will be used mainly
+`tf.keras` will be used mainly
 
 # PYTORCH
 >[!Tip]
