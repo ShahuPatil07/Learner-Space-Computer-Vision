@@ -1,5 +1,6 @@
 # CLASSIFIERS
 ### Regression:
+You can *skip* the regression part if done before  
 [Logistic Regression](https://youtu.be/zM4VZR0px8E?si=1GkpCaVPTQMuHi6D) (till 16:00 at 2x speed)  
 [Softmax Regression](https://youtu.be/J5bXOOmkopc?si=F54C3YoWqGoL-mG-) (till 11:21 at 2x speed)  
 ### SVM:
