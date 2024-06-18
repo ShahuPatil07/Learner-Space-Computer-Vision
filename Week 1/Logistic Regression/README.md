@@ -36,5 +36,5 @@ map_feature(x)=[x<sub>1</sub>,x<sub>2</sub>,x<sub>1</sub><sup>2</sup> ,x<sub>1</
 
 # ASSIGNMENT
 ***
-Plot decision boundary and find accuracy of your model on training set which is data.txt.
+Plot decision boundary and find accuracy of your model on [training set](https://github.com/ShahuPatil07/Learner-Space-Computer-Vision/blob/54317574c6ecb1038eae5918851a7e5010406a8c/Week%201/Logistic%20Regression/data.txt)  
 Make a notebook in Google Colab to submit .
