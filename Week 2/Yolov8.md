@@ -3,10 +3,10 @@ YOLO (You Only Look Once) is a real-time object detection algorithm.It is a sing
 
 + #### To start with the basic concepts please watch this video:
 
-https://www.youtube.com/watch?v=iy34dSwfEsY)
+  https://www.youtube.com/watch?v=iy34dSwfEsY)
 + #### For deeper understanding go through this GitHub repo carefully:
 
-https://github.com/ultralytics/ultralytics
+  https://github.com/ultralytics/ultralytics
 + #### For visual experience of Yolo:
 
-https://www.youtube.com/watch?v=ag3DLKsl2vk
+  https://www.youtube.com/watch?v=ag3DLKsl2vk
