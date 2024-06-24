@@ -1,1 +1,11 @@
+## Welcome to Week 1
+Welcome to the first week of our **Machine Learning Course!** This week, we’ll start by equipping ourselves with essential ML libraries such as NumPy, Pandas, and Matplotlib, which are crucial for data manipulation and visualization. Following this, we’ll delve into the foundational concepts of machine learning, including regression and classifiers. Also, we'll practise on many datasets to test our learning.
 
+Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s begin this exciting journey into machine learning together!
+
+1. We'll start with the [ML Libaries / Python Modules](https://github.com/ShahuPatil07/Learner-Space-Computer-Vision/tree/25509c6a33b0dffda5d6ff0270022387da0f1e92/Week%201/Python%20Modules) to facilitate efficient data manipulation and visualization.
+2. Our first ML concept will be [Linear Regression](https://github.com/ShahuPatil07/Learner-Space-Computer-Vision/tree/25509c6a33b0dffda5d6ff0270022387da0f1e92/Week%201/Linear%20Regression), a powerful technique for modeling relationships between variables.
+3. Next, we'll explore [Logistic Regression](https://github.com/ShahuPatil07/Learner-Space-Computer-Vision/tree/25509c6a33b0dffda5d6ff0270022387da0f1e92/Week%201/Logistic%20Regression), a fundamental method for binary classification tasks.
+4. Now we'll cover [Classifiers](https://github.com/ShahuPatil07/Learner-Space-Computer-Vision/tree/25509c6a33b0dffda5d6ff0270022387da0f1e92/Week%201/Classifiers), which are algorithms used to classify data into different categories based on patterns in the input features.
+
+**Congratulations** on completing the first week! We hope you've gained valuable insights that have sparked your enthusiasm and interest in machine learning. Next week, we'll delve into the expansive realm of deep learning, a powerful approach for constructing diverse AI models. Keep your enthusiasm high, and we are excited to see you in the next week.
