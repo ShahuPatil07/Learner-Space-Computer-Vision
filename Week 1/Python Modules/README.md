@@ -1,5 +1,5 @@
 # Learning Python Modules: NumPy, Pandas, and Matplotlib
-
+***
 ## Numpy Basics:(1 day)
 NumPy is a Python library used for working with arrays.
 It also has functions for working in the domain of linear algebra, Fourier transform, and matrices.
@@ -23,11 +23,11 @@ You can go through any one of the 3 materials provided.
 https://numpy.org/doc/stable/user/quickstart.html 
 
 If you are familiar with NumPy or have completed the basics documentation, go through this carefully.
-
+***
 ## Pandas:(2 days)
 Pandas is a Python library used for working with data sets.
 It has functions for analyzing, cleaning, exploring, and manipulating data.
-
+***
 ### Pandas Compiled Documentation:
 
 https://www.w3schools.com/python/pandas/default.asp 
@@ -45,11 +45,11 @@ https://www.youtube.com/watch?v=JjuLJ3Sb_9U&list=PLjVLYmrlmjGdEE2jFpL71LsVH5QjDP
 https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS 
 
 
-
+***
 
 ## Matplotlib:(1 day)
 Matplotlib is a low-level graph plotting library in Python that serves as a visualization utility.
-
+***
 ### Matplotlib Compiled Documentation:
 https://www.w3schools.com/python/matplotlib_intro.asp 
 
@@ -61,7 +61,6 @@ https://www.youtube.com/watch?v=9GvnrQv138s&list=PLjVLYmrlmjGcC0B_FP3bkJ-JIPkV5G
 https://www.youtube.com/watch?v=ANQSqWQrLSU&list=PLc20sA5NNOvpG9WlvjY7XTDWPAFBNgv_N&index=3 
 
 
-
 The following documentation contains a tutorial on Matplotlib from basic to advanced. Navigate through it using the menu bar on the left side according to your need, but do make sure on completion, you are aware of all the topics mentioned.
-
+***
 ## Please make sure, you know these modules thoroughly as it will be used in the course very frequently.
