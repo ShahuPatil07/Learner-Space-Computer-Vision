@@ -6,6 +6,6 @@ Stay engaged and practice consistently to make the most of this learning experie
 1. We'll start with the [ML Libaries / Python Modules](https://github.com/ShahuPatil07/Learner-Space-Computer-Vision/tree/25509c6a33b0dffda5d6ff0270022387da0f1e92/Week%201/Python%20Modules) to facilitate efficient data manipulation and visualization.
 2. Our first ML concept will be [Linear Regression](https://github.com/ShahuPatil07/Learner-Space-Computer-Vision/tree/25509c6a33b0dffda5d6ff0270022387da0f1e92/Week%201/Linear%20Regression), a powerful technique for modeling relationships between variables.
 3. Next, we'll explore [Logistic Regression](https://github.com/ShahuPatil07/Learner-Space-Computer-Vision/tree/25509c6a33b0dffda5d6ff0270022387da0f1e92/Week%201/Logistic%20Regression), a fundamental method for binary classification tasks.
-4. Now we'll cover [Classifiers](Classifierggs), which are algorithms used to classify data into different categories based on patterns in the input features.
+4. Now we'll cover [Classifiers](Classifiers), which are algorithms used to classify data into different categories based on patterns in the input features.
 
 **Congratulations** on completing the first week! We hope you've gained valuable insights that have sparked your enthusiasm and interest in machine learning. Next week, we'll delve into the expansive realm of deep learning, a powerful approach for constructing diverse AI models. Keep your enthusiasm high, and we are excited to see you in the next week.
