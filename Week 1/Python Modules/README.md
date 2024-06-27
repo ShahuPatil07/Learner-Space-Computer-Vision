@@ -6,6 +6,7 @@ It also has functions for working in the domain of linear algebra, Fourier trans
 
 ### Numpy Documentation:
 https://numpy.org/doc/stable/user/absolute_beginners.html 
+
 Note: Do go through numpy broadcasting carefully: https://numpy.org/doc/stable/user/basics.broadcasting.html
 
 ### Refer to this for the Numpy Video Tutorial in Hindi:
