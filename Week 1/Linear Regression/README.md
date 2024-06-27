@@ -1,4 +1,5 @@
-> ## 1. Supervised vs. Unsupervised Machine Learning 
+## 1. Supervised vs. Unsupervised Machine Learning 
+***
 Recommended to watch at 2X
 + [What is Machine Learning?](https://youtu.be/XtlwSmJfUs4?si=5n6aB220kPeJYlQN)
 + [Supervised Learning 1](https://youtu.be/sca5rQ9x1cA?si=ex3vuimTkJIAroZe)
@@ -16,7 +17,8 @@ You are required to install jupyter notebooks and learn basics of it as we are g
 Note : No need to go in depth of jupyter notebook as you need it’s basics only and
 will learn more throughout the course. *Don’t forget to try some codes in your notebook!*
 
-> ## 2. Regression Model
+## 2. Regression Model
+***
 
 In this module you will learn about linear regression. It will seem quite simple but advised to listen carefully and practise the things you are taught. Give time to understand the optional labs mentioned in the videos. 
 
@@ -29,7 +31,8 @@ In this module you will learn about linear regression. It will seem quite simple
 + [Cost Function 4](https://youtu.be/L5INhX5cbWU?si=F_ivtQmiqeNU3bnv)
 + [Optional Lab : Cost Function](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab04_Cost_function_Soln.ipynb)
 
-> ## 3. Training with Gradient Descent 
+## 3. Training with Gradient Descent 
+***
 
 + [Gradient Descent 1](https://youtu.be/WtlvKq_zxPI?si=EPKHXj529fwJd-GU)
 + [Gradient Descent 2](https://youtu.be/w_2vCijLiiM?si=L_HR-2NN1GpnnBrB)
@@ -47,7 +50,8 @@ Problem Statement : Plot a best fit line for the following set of points.
 2. [(1,1)  (1,2)  (2,2)  (2,1)]
 3. [(1,1)  (2,1.5)  (2,0.5)  (3,1)]
 
-> ## 4. Multiple Linear Regression 
+## 4. Multiple Linear Regression 
+***
 
 I would recommend attempting the Problem solved in optional labs in this section before seeing its method. 
 
@@ -69,3 +73,5 @@ I would recommend attempting the Problem solved in optional labs in this section
 As now you all are capable of making a regression model so here is an interesting 
 problem for you all. But before that think whether feature scaling always improves the 
 accuracy (reduces the cost more) and speed of the model? Search about it.
+
+
