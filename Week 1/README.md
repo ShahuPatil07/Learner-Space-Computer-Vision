@@ -7,6 +7,8 @@ Stay engaged and practice consistently to make the most of this learning experie
 2. Our first ML concept will be [Linear Regression](./Linear%20Regression), a powerful technique for modeling relationships between variables.
 3. Next, we'll explore [Logistic Regression](./Logistic%20Regression), a fundamental method for binary classification tasks.
 4. Now we'll cover [Classifiers](./Classifiers), which are algorithms used to classify data into different categories based on patterns in the input features.
+This section is optional for week 1 but is **compulsory** in week 2.After completing the above 3 sections and time persists then one can refer the **classifiers** section.
+
 
 Note: For submitting all asignments make a github repo and store the assignments in that repo .
 Refer to the [**video**](https://www.youtube.com/watch?v=PQsJR8ci3J0) for making repo.
