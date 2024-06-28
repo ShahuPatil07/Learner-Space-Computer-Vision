@@ -35,14 +35,14 @@ map_feature(x)=[x<sub>1</sub>,x<sub>2</sub>,x<sub>1</sub><sup>2</sup> ,x<sub>1</
 >
 >This can be executed as
 >>def map_feature(X1, X2):<br>
-   -X1=np.atleast_1d(X1)<br>
-   -X2=np.atleast_1d(X2)<br>
-   -degree=6<br>
-   -out=[]<br>
-   -for i in range(1,degree+1):<br>
-     -for j in range(i+1):<br>
-       -out.append((X1**(i-j) * (X2**j)))<br>
-   -return np.stack(out, axis=1)<br>
+   - X1=np.atleast_1d(X1)<br>
+   - X2=np.atleast_1d(X2)<br>
+   - degree=6<br>
+   - out=[]<br>
+   - for i in range(1,degree+1):<br>
+     - for j in range(i+1):<br>
+       - out.append((X1**(i-j) * (X2**j)))<br>
+   - return np.stack(out, axis=1)<br>
 
 This will be introduced in CNN in the further weeks.
 
