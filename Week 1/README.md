@@ -8,7 +8,7 @@ Stay engaged and practice consistently to make the most of this learning experie
 3. Next, we'll explore [Logistic Regression](./Logistic%20Regression), a fundamental method for binary classification tasks.
 4. Now we'll cover [Classifiers](./Classifiers), which are algorithms used to classify data into different categories based on patterns in the input features.
 
-For submitting all asignments make a github repo and store the assignments in that repo .
+Note: For submitting all asignments make a github repo and store the assignments in that repo .
 Refer to the [**video**](https://www.youtube.com/watch?v=PQsJR8ci3J0) for making repo.
 
 **Congratulations** on completing the first week! We hope you've gained valuable insights that have sparked your enthusiasm and interest in machine learning. Next week, we'll delve into the expansive realm of deep learning, a powerful approach for constructing diverse AI models. Keep your enthusiasm high, and we are excited to see you in the next week.
