@@ -32,6 +32,19 @@ Go through the content below…
 and
 up to the sixth power. As a result of this mapping, our vector of two features (the scores on two QA tests) has been transformed into a 28-dimensional vector. A logistic regression classifier trained on this higher-dimension feature vector will have a more complex decision boundary and will appear nonlinear when drawn in our 2-dimensional plot.
 map_feature(x)=[x<sub>1</sub>,x<sub>2</sub>,x<sub>1</sub><sup>2</sup> ,x<sub>1</sub>x<sub>2</sub>,x<sub>1</sub><sup>3</sup>,....,x<sub>1</sub>x<sub>2</sub><sup>5</sup>,x<sub>2</sub><sup>6</sup>]
+>
+>This cann be executed as
+>>def map_feature(X1, X2):
+   X1=np.atleast_1d(X1)
+   X2=np.atleast_1d(X2)
+   degree=6
+   out=[]
+   for i in range(1,degree+1):
+     for j in range(i+1):
+       out.append((X1**(i-j) * (X2**j)))
+   return np.stack(out, axis=1)
+
+This will be introduced in CNN in the further weeks.
 
 
 # ASSIGNMENT
