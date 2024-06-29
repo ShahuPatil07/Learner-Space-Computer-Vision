@@ -42,6 +42,10 @@ In this module you will learn about linear regression. It will seem quite simple
 ## 3. Training with Gradient Descent 
 ***
 
+
+In this module, we are going to provide an overview of gradient descent, a fundamental optimization algorithm widely used in machine learning to minimize functions and improve model performance.
+
+
 + [Gradient Descent 1](https://youtu.be/WtlvKq_zxPI?si=EPKHXj529fwJd-GU)
 + [Gradient Descent 2](https://youtu.be/w_2vCijLiiM?si=L_HR-2NN1GpnnBrB)
 + [Gradient Descent 3](https://youtu.be/PKm61nrqpCA?si=2-lZfYDIb9WOI0EP)
@@ -60,6 +64,10 @@ Problem Statement : Plot a best fit line for the following set of points.
 
 ## 4. Multiple Linear Regression 
 ***
+
+
+In this module, we are going to provide an overview of multiple linear regression, a statistical technique used to model the relationship between one dependent variable and multiple independent variables.
+
 
 I would recommend attempting the Problem solved in optional labs in this section before seeing its method. 
 
