@@ -1,5 +1,13 @@
+After learning about the important libraries, now you are ready to start your journey of machine learning. 
+
+
 ## 1. Supervised vs. Unsupervised Machine Learning 
 ***
+
+
+Each type of machine learning model serves different purposes and is chosen based on the nature of the problem and the type of data available. By understanding these basic categories, we can better select and apply the appropriate ML techniques to real-world problems.
+
+
 Recommended to watch at 2X
 + [What is Machine Learning?](https://youtu.be/XtlwSmJfUs4?si=5n6aB220kPeJYlQN)
 + [Supervised Learning 1](https://youtu.be/sca5rQ9x1cA?si=ex3vuimTkJIAroZe)
