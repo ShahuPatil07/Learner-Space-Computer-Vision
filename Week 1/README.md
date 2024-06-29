@@ -6,11 +6,11 @@ Stay engaged and practice consistently to make the most of this learning experie
 1. We'll start with the [ML Libaries / Python Modules](./Python%20Modules) to facilitate efficient data manipulation and visualization.
 2. Our first ML concept will be [Linear Regression](./Linear%20Regression), a powerful technique for modeling relationships between variables.
 3. Next, we'll explore [Logistic Regression](./Logistic%20Regression), a fundamental method for binary classification tasks.
-4. Now we'll cover [Classifiers](./Classifiers), which are algorithms used to classify data into different categories based on patterns in the input features.<br>
-*This section is optional for week 1 but is **compulsory** in week 2.After completing the above 3 sections and time persists then one can refer the **classifiers** section.*
+4. Now we'll cover [Classifiers](./Classifiers), which are algorithms used to classify data into different categories based on patterns in the input features.  
+*This section is optional for week 1 but is **compulsory** in week 2. After completing the above 3 sections and time persists then one can refer the **classifiers** section.*
 
 
-Note: For submitting all asignments make a github repo and store the assignments in that repo .
+Note: For submitting all asignments make a github repo and store the assignments in that repo.
 Refer to the [**video**](https://www.youtube.com/watch?v=PQsJR8ci3J0) for making repo.
 
 **Congratulations** on completing the first week! We hope you've gained valuable insights that have sparked your enthusiasm and interest in machine learning. Next week, we'll delve into the expansive realm of deep learning, a powerful approach for constructing diverse AI models. Keep your enthusiasm high, and we are excited to see you in the next week.
