@@ -5,9 +5,9 @@
 # DISCLAIMER: 
 >⚠️ TRY TO START THIS ASSIGNMENT AS EARLY AS  POSSIBLE . IT TAKES TIME FOR DATA TO LOAD AS WELL AS TRAIN THE MODEL.
 
->>You will be given a dataset in which the train dataset will have only a few images labelled .
+>>You will be given a dataset in which the train dataset will have only a few images labelled while other images will not be labelled .
 >>The following dataset is based on car parts.
->>You have to label the other images of the train dataset and predict the model on the test dataset.
+>>You have to label the other images of the train dataset (annotate) and predict the model on the test dataset.
 
 ***
 
