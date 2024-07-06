@@ -11,21 +11,24 @@ USE NOTEBOOK [**COLAB**/JUPYTER]
 `pip3 install tensorflow` (if using on local notebook/editor)  
 Setup isn’t required for working in colab
 
-2. <span style="font-size:18px">**[Tensorflow Basics](https://youtu.be/HPjBY1H-U4U?si=xTni0ae-S0vgbQVA)**</span>   
-You can skip os.environ[...] = ‘2’
+2. <span style="font-size:18px">**[Tensorflow Basics](https://youtu.be/HPjBY1H-U4U?si=xTni0ae-S0vgbQVA)**</span>    
+TensorFlow basics encompass creating tensors using constants or variables, performing operations such as element-wise and matrix multiplication, reshaping tensors, computing dot products, applying broadcasting, and utilizing activation functions for neural network training and inference.  
+*You can skip os.environ[...] = ‘2'* 
 
-3. <span style="font-size:18px">**[NN](https://youtu.be/pAhPiF3yiXI?si=jodY8SIy5PUapbzo)**</span> 
+4. **[Neural Network](https://youtu.be/pAhPiF3yiXI?si=jodY8SIy5PUapbzo)**  
+   Neural networks consist of interconnected neurons arranged in layers, processing input data through weights and activation functions to make predictions.
 
-4. <span style="font-size:18px">**[CNN](https://youtu.be/WAciKiDP2bo?si=NhUXAoeg_VVcPTuz)**</span>  
-Can be skipped this week
+5. **[Regularization](https://youtu.be/kJSUq1PLmWg?si=yfzLDoywCIZ3zE92)**  
+   Regularization techniques in neural networks prevent overfitting by adding constraints or penalties, such as L1/L2 regularization or dropout, to the model's training process.
 
-5. <span style="font-size:18px">**[Regularization](https://youtu.be/kJSUq1PLmWg?si=yfzLDoywCIZ3zE92)**</span> 
+7. **[Model Subclassing](https://youtu.be/WcZ_1IAH_nM?si=iftvnOL3IBpq-qYp)** (OPTIONAL)  
+   TensorFlow's model subclassing allows custom model architectures by subclassing `tf.keras.Model`, enabling flexibility in defining layers, forward pass, and custom training loops for complex neural network designs.
 
-6. <span style="font-size:18px">**[Model Subclassing](https://youtu.be/WcZ_1IAH_nM?si=iftvnOL3IBpq-qYp)** <span style = "color: green"> (OPTIONAL) </span></span> 
+9. <span style="font-size:18px">**[Model Saving and Loading](https://youtu.be/idus3KO6Wic?si=SFuwbX3sZWX6CEsv)**</span>  
+   Model saving and loading in neural networks involve storing trained model parameters to disk and reloading them for inference or further training, using formats like HDF5.
 
-7. <span style="font-size:18px">**[Model Saving and Loading](https://youtu.be/idus3KO6Wic?si=SFuwbX3sZWX6CEsv)**</span> 
-
-8. <span style="font-size:18px">**[Custom Dataset for Images](https://youtu.be/q7ZuZ8ZOErE?si=Xu9uxKgzL9oYQvIa)**</span>
+10. <span style="font-size:18px">**[Custom Dataset for Images](https://youtu.be/q7ZuZ8ZOErE?si=Xu9uxKgzL9oYQvIa)**</span>  
+Creating a custom dataset of images is necessary for training neural networks on specific tasks or domains not covered by existing datasets, ensuring better model performance and accuracy.
 
 **EXPLORE THE [TENSORFLOW OFFICIAL DOCUMENTATION](https://www.tensorflow.org/api_docs/python/tf/keras) FOR MORE**  
 `tf.keras` will be used mainly
@@ -38,16 +41,17 @@ USE NOTEBOOK [**COLAB**/JUPYTER]
 1. <span style="font-size:18px">**[Install and Setup](https://youtu.be/2S1dgHpqCdk?si=5tSQQbP7UELku9bc)**</span>  
 Setup isn’t required for working in colab
 
-1. <span style="font-size:18px">**[Pytorch Basics](https://youtu.be/x9JiIFvlUwk?si=jRkoBXGdU4FC6i8P)**</span>
+1. <span style="font-size:18px">**[Pytorch Basics](https://youtu.be/x9JiIFvlUwk?si=jRkoBXGdU4FC6i8P)**</span>  
+   PyTorch basics involve creating tensors with constants or variables, performing operations like element-wise and matrix multiplication, reshaping tensors, computing dot products, applying broadcasting, and utilizing activation functions for neural network training and inference.
 
-1. <span style="font-size:18px">**[NN](https://youtu.be/Jy4wM2X21u0?si=DHMg84nHd8VL6Pjk)**</span>
+1. <span style="font-size:18px">**[Neural Network](https://youtu.be/Jy4wM2X21u0?si=DHMg84nHd8VL6Pjk)**</span>  
+   Neural networks consist of interconnected neurons arranged in layers, processing input data through weights and activation functions to make predictions.
 
-1. <span style="font-size:18px">**[CNN](https://youtu.be/wnK3uWv_WkU?si=UDtEPUrbZUTi-lnX)**</span>  
-Can be skipped this week
+1. <span style="font-size:18px">**[Model Saving and Loading](https://youtu.be/g6kQl_EFn84?si=UMABNixyBJaNxF7_)**</span>  
+Model saving and loading in neural networks involve storing trained model parameters to disk and reloading them for inference or further training, using formats like HDF5 
 
-1. <span style="font-size:18px">**[Model Saving and Loading](https://youtu.be/g6kQl_EFn84?si=UMABNixyBJaNxF7_)**</span>
-
-1. <span style="font-size:18px">**[Custom Dataset for Images](https://youtu.be/ZoZHd0Zm3RY?si=nl0R64asjzMYPR4m)**</span>
+1. <span style="font-size:18px">**[Custom Dataset for Images](https://youtu.be/ZoZHd0Zm3RY?si=nl0R64asjzMYPR4m)**</span>  
+Creating a custom dataset of images is necessary for training neural networks on specific tasks or domains not covered by existing datasets, ensuring better model performance and accuracy.
 
  
 **EXPLORE THE [PYTORCH OFFICIAL DOCUMENTATION](https://pytorch.org/tutorials/beginner/basics/intro.html) FOR MORE** 
