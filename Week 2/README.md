@@ -10,3 +10,6 @@ Stay engaged and practice consistently to make the most of this learning experie
 5. It's time to put our knowledge to the test. Let's tackle the [Assignments](./Assignment) and practice our skills to reinforce our understanding.
 
 **Congratulations** on completing the first week! We hope you've gained valuable insights that have sparked your enthusiasm and interest in machine learning. Next week, we'll delve into the expansive realm of CNN, a powerful approach for image related problems. Keep your enthusiasm high, and we are excited to see you in the next week.
+
+                                             
+                                                   Created with ❤️  by [WnCC](https://itc.gymkhana.iitb.ac.in/wncc/)
