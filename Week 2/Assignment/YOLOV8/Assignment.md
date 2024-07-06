@@ -5,9 +5,9 @@
 # DISCLAIMER: 
 >⚠️ TRY TO START THIS ASSIGNMENT AS EARLY AS  POSSIBLE . IT TAKES TIME FOR DATA TO LOAD AS WELL AS TRAIN THE MODEL.
 
->>You will be given a dataset in which the train dataset will have only a few images labelled .
+>>You will be given a dataset in which the train dataset will have all images labelled .
 >>The following dataset is based on car parts.
->>You have to label the other images of the train dataset and predict the model on the test dataset.
+>>You have to train and predict the model on the test dataset.
 
 ***
 
@@ -21,12 +21,12 @@ valid: .../valid/images
 ```
 ***
 
-> #### [DATASET](https://drive.google.com/drive/folders/1aEHUI3dco8NDALL8AgZwpWKpEQYUiCHi?usp=sharing)
+> #### [DATASET](https://drive.google.com/drive/folders/1rPFkpiEhn5CKgT7EPZRF9sOCepsvL-hM?usp=drive_link)
 
 ***
 
 ## SUBMISSION MODE: 
->A colab notebook  along with image of confusion matrix and results.png
+>A colab notebook  along with image of confusion matrix and results.png . You will find both in runs/detect/train folder.
 
 💡TRY TO MAKE YOUR MODEL AS ACCURATE AS POSSIBLE…
 
