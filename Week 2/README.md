@@ -3,7 +3,7 @@ Welcome to the second week of our **Machine Learning Course!** This week, we'll 
 
 Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s continue this exciting journey of machine learning together!
 
-1. Let's start with Deep Learning framework, [TensorFlow/PyTorch](./Framework%2BNN) followed by concepts of [Neural Network](./Framework%2BNN).
+1. Let's start with Deep Learning framework, [TensorFlow/PyTorch](./Framework%20+%20NN) followed by concepts of [Neural Network](./Framework%2BNN).
 2. Now we'll cover [Classifiers](./Classifiers), which are algorithms used to classify data into different categories based on patterns in the input features.
    You can skip if it has been done in week 1. 
 4. Let's explore [YOLOv8](./Yolov8), focusing on its capabilities for object detection and classification.
