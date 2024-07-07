@@ -12,6 +12,7 @@ Suggestions:
 
 Mandatory:
 1. Don't use `Conv2D`, `MaxPool2D` layers.
-2. For passing the assignment, test dataset accuracy should be more than 90%. [Test Accuracy > 0.9]
+2. For passing the assignment, test dataset accuracy should be more than 90%.  
+   [**Test Accuracy > 0.9**]
 
 **BEST OF LUCK**
