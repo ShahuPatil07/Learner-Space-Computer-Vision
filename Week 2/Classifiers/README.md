@@ -23,11 +23,11 @@ Decision Trees and Random Forests are the fundamental and first-chosen technique
 [Random Forest in ML](https://youtu.be/eM4uJ6XGnSM?si=U9eHNFiLz-TtABwv&t=858) (14:18 to 17:18 at 1.5x speed)  
 [Random Forest Classifier and Regressor](https://youtu.be/nxFG5xdpDto?si=3ACkJrx7H-McFssa&t=272) (4:30 to end at 1.5x speed)  
 [Application](https://youtu.be/ok2s1vV9XW0?si=Imgl-oYGEcBrIvGu&t=154) (2:43 to 10:36 at 2x speed)
-## KNN:
+## KNN (Optional):
 K-nearest neighbors (KNN) is a non-parametric classification and regression method. It predicts new data points based on their similarity to existing data points, using a majority vote (for classification) or averaging (for regression) among its nearest neighbors in the feature space.
 
 [KNN in ML](https://youtu.be/CQveSaMyEwM?si=-DrgOoalYD89MaSD) (Optional)
-## Naive Bayes:
+## Naive Bayes (Optional):
 Naive Bayes is a probabilistic classifier based on Bayes' theorem. It assumes that features are independent of each other, hence "naive," which simplifies computation and training. It's efficient with minimal training data, making it ideal for tasks like text classification and spam filtering, where it often yields effective results despite its simplicity. Despite this simplification, Naive Bayes classifiers often perform well in practice, especially with high-dimensional data and large datasets.
 
 [Intuition](https://youtu.be/jS1CKhALUBQ?si=8LC2Qn9oFexke3aM) (at 1.5x speed)  
@@ -35,7 +35,7 @@ Naive Bayes is a probabilistic classifier based on Bayes' theorem. It assumes th
 [Application](https://youtu.be/nHIUYwN-5rM?si=bHFlE9KX23WmaZH-) (at 2x speed)  
 >[!Warning]
 NLP is done with advanced Deep Learning algorithms
-## K-means Clustering:
+## K-means Clustering (Optional):
 K-means clustering is a partitioning algorithm that aims to divide a dataset into K clusters by iteratively assigning each data point to the cluster with the nearest centroid and recalculating centroids until convergence. It's widely used for data segmentation and pattern recognition tasks.
 
 [K-Means in ML](https://youtu.be/EItlUEPCIzM?si=f9Or7ZgnpzlJmudt) (Optional)
