@@ -7,4 +7,4 @@ Stay engaged and practice consistently to make the most of this learning experie
 2. Now it's time to explore [Convolutional Neural Network](./CNN), the most efficient NN to deal with image data.
 5. Let's put our knowledge to the test and tackle the [Assignments](./Assignment).
 
-**Congratulations** on completing the second week! We hope you've gained valuable insights that have sparked your enthusiasm and interest in machine learning. Next week, we'll delve into the expansive realm of CNN, a powerful approach for image related problems. Keep your enthusiasm high, and we are excited to see you in the next week.
+**Congratulations** on completing the third week! We hope you've gained valuable insights that have sparked your enthusiasm and interest in machine learning. Keep your enthusiasm high, and we are excited to see you in the next week.
