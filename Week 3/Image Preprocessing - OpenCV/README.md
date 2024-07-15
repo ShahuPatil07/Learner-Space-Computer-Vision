@@ -1,5 +1,6 @@
 # Image Preprocessing - OpenCV
-Image preprocessing using OpenCV is crucial for deep learning projects as it enhances image quality, ensuring better model accuracy. Techniques include resizing, normalization, noise reduction, and augmentation. These steps standardize inputs, improve feature extraction, and increase dataset diversity, leading to more robust and efficient neural network training and performance.
+Image preprocessing using OpenCV is crucial for deep learning projects as it enhances image quality, ensuring better model accuracy. Techniques include resizing, normalization, noise reduction, and augmentation. These steps standardize inputs, improve feature extraction, and increase dataset diversity, leading to more robust and efficient neural network training and performance.  
+Frameworks like Tensorflow also have image preprocessing methods but aren't as efficient as OpenCV (made for computer vision only). You can use framework's preprocessing methods like resizing, normalization, rotation etc. for simple image data. But for advanced image preprocessing techniques you need OpenCV.
 
 >[!Tip]
 All the videos can be watched at **2x speed**
@@ -8,7 +9,7 @@ All the videos can be watched at **2x speed**
 
 In the context of computer vision and deep learning, an image represented as a NumPy array is a multi-dimensional array where each element corresponds to a pixel value. Each pixel's value ranges from 0 to 255, indicating the intensity of the color. This representation allows for efficient manipulation and processing using NumPy's array operations.
 
-[Video Description](https://youtu.be/oUJs03eZ0S8?si=tyYuoZIt091fhbYp)  
+[What is Image?](https://youtu.be/oUJs03eZ0S8?si=tyYuoZIt091fhbYp)  
 [Image Reading](https://youtu.be/wRtAoZF50Jc?si=m7RWW3Qy7pQxYaed)
 
 ## Image Color Channels
