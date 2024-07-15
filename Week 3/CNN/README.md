@@ -1,7 +1,7 @@
 In previous week we had learnt about Neural Networks.<br>
-This week we will learn a special kind of network called Convulsion Neural Network.
+This week we will learn a special kind of network called Convolutional Neural Network.
 
-# CONVULSION NEURAL NETWORK
+# CONVOLUTIONAL NEURAL NETWORK
 ***
 >A convolutional neural network (CNN) is a category of machine learning model, namely a type of deep learning algorithm well suited to analysing visual data. CNNs -- sometimes referred to as convnets -- use principles from linear algebra, particularly convolution operations, to extract features and identify patterns within images. Although CNNs are predominantly used to process images, they can also be adapted to work with audio and other signal data.
 
