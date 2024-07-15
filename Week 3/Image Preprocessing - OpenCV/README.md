@@ -1,5 +1,6 @@
 # Image Preprocessing - OpenCV
-Image preprocessing using OpenCV is crucial for deep learning projects as it enhances image quality, ensuring better model accuracy. Techniques include resizing, normalization, noise reduction, and augmentation. These steps standardize inputs, improve feature extraction, and increase dataset diversity, leading to more robust and efficient neural network training and performance.  
+Image preprocessing using OpenCV is crucial for deep learning projects as it enhances image quality, ensuring better model accuracy. Techniques include resizing, normalization, noise reduction, and augmentation. These steps standardize inputs, improve feature extraction, and increase dataset diversity, leading to more robust and efficient neural network training and performance.
+
 Frameworks like Tensorflow also have image preprocessing methods but aren't as efficient as OpenCV (made for computer vision only). You can use framework's preprocessing methods like resizing, normalization, rotation etc. for simple image data. But for advanced image preprocessing techniques you need OpenCV.
 
 >[!Tip]
