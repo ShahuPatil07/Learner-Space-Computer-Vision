@@ -56,6 +56,6 @@ Edge detection algorithms aim to identify points in an image where the *brightne
 
 ## Image Saving
 
-It's very important to save the images after proecessing them.
+It's very important to save the images after processing them.
 
 [Image Saving](https://youtu.be/b_vVNCVDrbw?si=iaix9mp4M9mSzzi6)
