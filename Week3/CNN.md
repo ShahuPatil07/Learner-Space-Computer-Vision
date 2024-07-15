@@ -1,4 +1,4 @@
-In previous week we had learnt about Neural Networks.
+In previous week we had learnt about Neural Networks.<br>
 This week we will learn a special kind of network called Convulsion Neural Network.
 
 # CONVULSION NEURAL NETWORK
