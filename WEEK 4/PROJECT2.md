@@ -1,5 +1,6 @@
 ### PROJECT 2
-> This project is related to image processing of skin diseases.
+> This project aims to develop a benchmark for long-tailed, multi-class medical image classification, we will use the HAM10000 Dataset that was acquired with a variety of dermatoscope types that are categorized into one of seven possible disease categories.
+
 
 ### INSTRUCTIONS
 > Go through the instruction [doc](https://docs.google.com/document/d/1xpSxyq8pRyjPRciQb3tOjV24K7pqniHY/edit?usp=sharing&ouid=102124429604486730187&rtpof=true&sd=true) to get better understanding.
