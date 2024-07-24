@@ -3,7 +3,8 @@
 
 
 ### INSTRUCTIONS
-> Go through the instruction [doc](https://docs.google.com/document/d/1xpSxyq8pRyjPRciQb3tOjV24K7pqniHY/edit?usp=sharing&ouid=102124429604486730187&rtpof=true&sd=true) to get better understanding about the problem statement and the datasets.
+> Go through the instruction [doc](https://docs.google.com/document/d/1xpSxyq8pRyjPRciQb3tOjV24K7pqniHY/edit?usp=sharing&ouid=102124429604486730187&rtpof=true&sd=true) to get better understanding about the problem statement and the datasets..
+> Tip- Explore various OpenCV techniques to preprocess the image well before using any model
 
 ### TYPES OF METRICES
 >For scientific completeness, predicted responses will also have the following metrics computed (comparing prediction vs. ground truth) for each image:
