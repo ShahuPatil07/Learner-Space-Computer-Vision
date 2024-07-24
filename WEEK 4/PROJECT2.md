@@ -9,14 +9,10 @@
 ### TYPES OF METRICES
 >For scientific completeness, predicted responses will also have the following metrics computed (comparing prediction vs. ground truth) for each image:
 
->>[Sensitivity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity#Sensitivity)
->>[Specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity#Specificity)
->>[Accuracy](https://en.wikipedia.org/wiki/Accuracy_and_precision#In_binary_classification)
->>[area under the receiver operating characteristic curve (AUC)](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve)
->>[mean average precision](http://fastml.com/what-you-wanted-to-know-about-mean-average-precision/)
->>[F1 score](https://en.wikipedia.org/wiki/F1_score)
->>[positive predictive value (PPV)](https://en.wikipedia.org/wiki/Positive_and_negative_predictive_values)
->>[negative predictive value (NPV)](https://en.wikipedia.org/wiki/Positive_and_negative_predictive_values)
+* >>[Accuracy](https://en.wikipedia.org/wiki/Accuracy_and_precision#In_binary_classification)
+* >>[area under the receiver operating characteristic curve (AUC)](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve)
+* >>[mean average precision](http://fastml.com/what-you-wanted-to-know-about-mean-average-precision/)
+* >>[F1 score](https://en.wikipedia.org/wiki/F1_score)
 
 ### SUBMISSION MODE
 > Submit the github repo containing ipynb file along with normalized-multi class accuracy. 
